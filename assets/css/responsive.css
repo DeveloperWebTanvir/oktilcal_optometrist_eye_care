@@ -1,0 +1,1871 @@
+
+@media only screen and (max-width: 5000px){
+    .boxed_wrapper_box_page{
+        overflow-x: hidden;
+    }
+     
+    
+    }
+    
+    
+    /* Large Layout: 1200px. */
+    @media only screen and (min-width: 1200px){
+    
+    
+        
+    
+     
+        
+    }
+    
+    
+    
+    /* Medium screen  */ 
+    @media only screen and (min-width: 992px) and (max-width: 1199px) { 
+    
+    /*** Welcome Area Css ***/   
+    .welcome-content-box {
+        margin-left: 0;
+        margin-right: 0;
+        padding-top: 50px;
+    }
+    .welcome-content-box.style2 {
+        margin-left: 0px;
+    }    
+        
+    .welcome-image-box .experience-box {
+        top: 30px;
+        left: 30px;
+    }    
+    
+    /*** Certified Area Css ***/  
+    .certified-image-box1 {
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 670px;
+        width: 100%;
+        margin: 50px 0 50px;
+    }
+    .certified-box {
+        margin-left: 0;
+    }  
+    .certified-box .icon-box {
+        display: none;
+    }    
+    
+    /*** Services Style1 Area Css ***/ 
+    .services-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .services-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .services-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }    
+    .single-service-style1 .text-holder h3 {
+        font-size: 20px;
+    }    
+    
+    /*** Slogan Area Css ***/          
+    .slogan-content {
+        padding: 91px 0px 100px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }  
+    .slogan-content .left {
+        padding-bottom: 28px;
+    }    
+    
+    /*** Choose Area Css ***/ 
+    .choose-left-box img {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+    }    
+    .choose-content-box {
+        padding-top: 50px;
+        padding-left: 0px;
+        padding-bottom: 213px;
+    }    
+    .happy-patients-box {
+        left: 0px;
+    }    
+        
+    /*** Testimonial Style1 Area Css ***/ 
+    .testimonial-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .testimonial-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .testimonial-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+        
+        
+        
+    /*** Service Style2 Area Css ***/      
+    .service-style2-right {
+        margin-top: 50px;
+        margin-left: 0px;
+        max-width: 700px;
+        width: 100%;
+    }
+        
+    /*** Blog Style1 Area Css ***/ 
+    .blog-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .blog-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .blog-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+       
+    /*** Slogan Style2 Area Css ***/      
+    .slogan-style2-area .icon-holder {
+        top: -105px;
+    }    
+    .slogan-style2-area .icon-holder img {
+        width: 380px;
+    }    
+      
+    /*** Footer Area Css ***/    
+    .single-footer-widget.marbtm {
+        margin-bottom: 34px;
+    } 
+        
+        
+    
+        
+        
+    /*** Header Style Two Css ***/       
+    .header-contact-info-box ul li {
+        padding-right: 0px;
+        margin-right: 20px;
+        border-right: 0px solid #dbdee4;
+    }    
+    .header-contact-info-box ul li .icon {
+        width: 45px;
+    }    
+    .header-style2-bottom-right .header-social-link {
+        padding: 35px 0;
+        margin-right: 30px;
+    }    
+    .header-style2-bottom-right .btns-box {
+        padding: 25px 0;
+    }    
+    
+    /*** Testimonial Style1 Area Css ***/ 
+    .featured-area .top-title {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }   
+    .featured-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .featured-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }
+        
+    .single-featured-box {
+        max-width: 370px;
+        width: 100%;
+        margin: 0 auto 40px;
+    }      
+    .opening-hours-contact-box {
+        padding: 48px 50px 49px;
+        max-width: 370px;
+        width: 100%;
+        margin: 0 auto 40px;
+    }    
+    .opening-hours-contact-box h3 br{
+        display: none;
+    }    
+      
+    /*** Testimonial Style1 Area Css ***/ 
+    .emergency-contact-text {
+        padding: 19px 0 0;
+    } 
+            
+    .emergency-contact-btns-box {
+        position: relative;
+        display: block;
+        padding: 19px 0 0;
+    } 
+    .rtl .emergency-contact-btns-box{
+        float: right;
+    }    
+     
+    /*** Team Area Css ***/  
+    .team-content-box {
+        position: relative;
+        display: block;
+        padding: 120px 0 80px;
+    }    
+    .team-member-box {
+        max-width: 500px;
+        width: 100%;
+        float: none;
+        margin: 0 auto;
+    }    
+        
+    /*** Faq Content Area Css ***/      
+    .faq-content-area .layer-outer .left-box {
+        width: 100%;
+        height: 50%;
+        float: none;
+    }  
+    .faq-content-area .layer-outer .right-box {
+        width: 100%;
+        height: 50%;
+        float: none;
+    }    
+    .faq-title-box {
+        padding: 120px 0;
+        padding-right: 0px;
+    }    
+    .faq-content-box {
+        padding-left: 0;
+        margin-right: 0;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+        
+    /*** Blog Style1 Area Graybg Css ***/   
+    .single-blog-style1.style1-instyle2 .big-text h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }       
+    .single-blog-style1.style1-instyle2 .big-text {
+        min-height: 230px;
+        padding: 0 40px;
+        margin-bottom: 30px;
+    }    
+    .single-blog-style1 .text-holder {
+        padding: 19px 20px 10px;
+    }    
+    .single-blog-style1.style1-instyle2 .big-text .blog-quote {
+        bottom: 20px;
+        right: 20px;
+    }    
+        
+    /*** Contact Form Style1 Area Css ***/      
+    .contact-form.home-p {
+        max-width: 100%;
+        width: 100%;
+        padding: 120px 0 70px;
+    } 
+    .contact-image-box {
+        margin-left: 0px;
+    }    
+    .contact-image-box img {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+    }    
+       
+    /*** About Style1 Area Css ***/    
+    .about-style1-image-box .single-image-box.image1 {
+        margin-right: 0;
+    }    
+    .about-style1-image-box .single-image-box.image2 {
+        margin-left: 0px;
+    }   
+        
+    /*** Team Style2 Area Css ***/ 
+    .team-style2-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .team-style2-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .team-style2-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+    .single-team-member .title-holder h3 {
+        font-size: 16px;
+    }    
+        
+    /*** Services Details Area Css ***/     
+    .services-details-text2 .img-box {
+        margin-bottom: 40px;
+    }    
+        
+    /*** Contact Page Css ***/  
+    .contact-form-style1-area.contact-page {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+    .contact-form.contact-page {
+        float: none;
+        padding: 0;
+        margin-top: 66px;
+        max-width: 100%;
+    }    
+        
+        
+        
+    /*** RTL Page Css ***/  
+    .rtl.featured-area .top-title {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center !important;
+    }        
+    .welcome-content-box .inner-content .bottom-box {
+        max-width: 700px;
+        width: 100%;
+    }    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+        
+        
+        
+    
+    }
+    
+    
+    
+    /* Tablet Layout: 768px. */
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+        
+    
+    /*** Header Style One Css ***/     
+    .header-top {
+        display: none;
+    }
+        
+    /*** Welcome Area Css ***/   
+    .welcome-content-box {
+        margin-left: 0;
+        margin-right: 0;
+        padding-top: 50px;
+    }
+    .welcome-content-box.style2 {
+        margin-left: 0px;
+    }    
+        
+    .welcome-image-box .experience-box {
+        top: 30px;
+        left: 30px;
+    }    
+        
+    /*** Certified Area Css ***/  
+    .certified-image-box1 {
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 670px;
+        width: 100%;
+        margin: 50px 0 50px;
+    }
+    .certified-box {
+        margin-left: 0;
+    }  
+    .certified-box .icon-box {
+        display: none;
+    }    
+    
+    /*** Services Style1 Area Css ***/ 
+    .services-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .services-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .services-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }    
+    .single-service-style1 .text-holder h3 {
+        font-size: 20px;
+    }    
+    
+    /*** Slogan Area Css ***/          
+    .slogan-content {
+        padding: 91px 0px 100px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }  
+    .slogan-content .left {
+        padding-bottom: 28px;
+    }    
+    
+    /*** Choose Area Css ***/ 
+    .choose-left-box img {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+    }    
+    .choose-content-box {
+        padding-top: 50px;
+        padding-left: 0px;
+        padding-bottom: 213px;
+    }    
+    .happy-patients-box {
+        left: 0px;
+    }    
+     
+    /*** Testimonial Style1 Area Css ***/ 
+    .testimonial-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .testimonial-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .testimonial-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }     
+       
+    /*** Partner Area Css ***/ 
+    .partner-area:before {
+        display: none;
+    }    
+    .partner-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-bottom: 70px;
+    } 
+    /*** Service Style2 Area Css ***/     
+    .single-partner-logo-box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }    
+    .service-style2-right {
+        margin-top: 50px;
+        margin-left: 0px;
+        max-width: 700px;
+        width: 100%;
+    }
+       
+    /*** Blog Style1 Area Css ***/ 
+    .blog-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .blog-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .blog-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+     
+    /*** Slogan Style2 Area Css ***/      
+    .slogan-style2-area .icon-holder {
+        top: -105px;
+    }    
+    .slogan-style2-area .icon-holder img {
+        width: 380px;
+    }    
+    .slogan-single-box .img-holder .overlay-content .btns-box {
+        padding-top: 19px;
+    }         
+        
+    /*** Subscribe Area Css ***/
+    .subscribe-area .left {
+        float: none;
+    }    
+    .subscribe-social-links {
+        padding: 0px 0 20px;
+        text-align: center;
+    }    
+    .subscribe-social-links ul li {
+        display: inline-block;
+        float: none;
+        margin-right: 0;
+        margin: 0 3px;
+    }    
+    .subscribe-area .right {
+        float: none;
+    }    
+        
+    /*** Footer Area Css ***/    
+    .single-footer-widget.marbtm {
+        margin-bottom: 34px;
+    }
+        
+        
+        
+        
+        
+    /*** Header Style Two Css ***/ 
+    .header-style2 {
+        padding: 0;
+    }    
+    .header-style2-left {
+        position: absolute;
+        top: 0;
+        left: 0;
+        float: none;
+        z-index: 10;
+    } 
+    .header-style2-left .logo {
+        padding: 31px 0;
+    }    
+    .header-contact-info-box {
+        display: none;
+    }  
+        
+    .header-style2-bottom {
+        background: #ffffff;
+    }    
+    .header-style2-bottom-right .header-social-link {
+        display: none;
+    }    
+    .header-style2-bottom-right .btns-box {
+        display: none;
+    }    
+            
+    .header-style2-bottom-left {
+        float: none;
+        text-align: right;
+    }   
+    .header-style2-bottom-left .nav-outer {
+        float: right;
+    }    
+        
+    /*** Testimonial Style1 Area Css ***/ 
+    .featured-area .top-title {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }   
+    .featured-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .featured-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }
+        
+    .single-featured-box {
+        max-width: 370px;
+        width: 100%;
+        margin: 0 auto 40px;
+    }      
+    .opening-hours-contact-box {
+        padding: 48px 50px 49px;
+        max-width: 370px;
+        width: 100%;
+        margin: 0 auto 40px;
+    }    
+    .opening-hours-contact-box h3 br{
+        display: none;
+    }        
+        
+    /*** Testimonial Style1 Area Css ***/ 
+    .emergency-contact-text {
+        padding: 19px 0 0;
+    }    
+    .emergency-contact-btns-box {
+        position: relative;
+        display: block;
+        padding: 19px 0 0;
+    } 
+    .rtl .emergency-contact-btns-box{
+        float: right;
+    }     
+        
+    /*** Team Area Css ***/  
+    .team-content-box {
+        position: relative;
+        display: block;
+        padding: 120px 0 80px;
+    }    
+    .team-member-box {
+        max-width: 500px;
+        width: 100%;
+        float: none;
+        margin: 0 auto;
+    }    
+            
+    /*** Faq Content Area Css ***/      
+    .faq-content-area .layer-outer .left-box {
+        width: 100%;
+        height: 50%;
+        float: none;
+    }  
+    .faq-content-area .layer-outer .right-box {
+        width: 100%;
+        height: 50%;
+        float: none;
+    }    
+    .faq-title-box {
+        padding: 120px 0;
+        padding-right: 0px;
+    }    
+    .faq-content-box {
+        padding-left: 0;
+        margin-right: 0;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+        
+    /*** Contact Form Style1 Area Css ***/ 
+    .contact-form-style1-area .shape {
+        display: none;
+    }    
+    .contact-form.home-p {
+        max-width: 100%;
+        width: 100%;
+        padding: 120px 0 70px;
+    } 
+    .contact-image-box {
+        margin-left: 0px;
+    }    
+    .contact-image-box img {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+    }    
+     
+    /*** Partner Style2 Area Css ***/
+    .partner-box-style2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }    
+    .single-partner-logo-box-style2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+    }    
+      
+    /*** About Style1 Area Css ***/    
+    .about-style1-image-box .single-image-box.image1 {
+        margin-right: 0;
+    }    
+    .about-style1-image-box .single-image-box.image2 {
+        margin-left: 0px;
+    }   
+        
+    /*** Partner Style3 Area Css ***/       
+    .single-partner-logo-box-style3 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }    
+    .partner-box-style3 {
+        justify-content: center;
+    }    
+        
+    /*** Team Style2 Area Css ***/ 
+    .team-style2-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .team-style2-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .team-style2-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+    .single-team-member .title-holder h3 {
+        font-size: 16px;
+    }    
+      
+    /*** Services Details Area Css ***/ 
+    .services-details-area {
+        padding: 120px 0 120px;
+    }    
+    .services-details-text2 .img-box {
+        margin-bottom: 40px;
+    }    
+    .services-details-sidebar {
+        position: relative;
+        display: block;
+        padding-top: 62px;
+    }        
+        
+    /*** Blog Single Area Css ***/     
+    .sidebar-wrapper {
+        margin-top: 80px;
+    }
+        
+    /*** Contact Page Css ***/  
+    .contact-form-style1-area.contact-page {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+    .contact-form.contact-page {
+        float: none;
+        padding: 0;
+        margin-top: 66px;
+        max-width: 100%;
+    }    
+      
+        
+    /*** RTL Page Css ***/  
+    .rtl.featured-area .top-title {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center !important;
+    }        
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+     
+        
+    }
+    
+    
+    /* Mobile Layout: 320px. */
+    @media only screen and (max-width: 767px) {
+        
+    .sec-title h2 br{
+        display: none;
+    }    
+    /*** Header Style One Css ***/     
+    .header-top {
+        display: none;
+    }
+    
+    /*** Welcome Area Css ***/   
+    .welcome-content-box {
+        margin-left: 0;
+        margin-right: 0;
+        padding-top: 50px;
+    }
+    .welcome-image-box:before {
+        display: none;
+    }
+    .welcome-content-box.style2 {
+        margin-left: 0px;
+    } 
+    .welcome-content-box .inner-content ul li {
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+    .welcome-content-box .inner-content ul li:last-child{
+        margin-bottom: 0;;
+    }
+    .welcome-content-box .inner-content ul li:before {
+        top: 1px;
+    } 
+    
+    .patients-box {
+        width: 320px;
+        margin: 0 auto;
+        padding: 16px 0 17px;
+    }
+    
+    
+    
+        
+    .welcome-image-box {
+        max-width: 100%;
+        width: 100%;
+        padding-right: 0;
+        padding-bottom: 0;
+    }    
+    .welcome-image-box .experience-box {
+        top: 10px;
+        left: 10px;
+    }  
+    .welcome-image-box .image2 {
+        position: static;
+        margin-top: 20px;
+    }    
+    .welcome-content-box .inner-content .bottom-box .left {
+        float: none;
+    }
+    .welcome-content-box .inner-content .bottom-box .right{
+        float: none;
+        padding-top: 40px;
+    }    
+        
+    /*** Certified Area Css ***/
+    .certified-area .outer-box {
+        padding: 120px 20px 90px;
+    }
+    .certified-area .outer-box:before {
+        display: none;
+    }    
+    .certified-image-box1 {
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 670px;
+        width: 100%;
+        margin: 50px 0 50px;
+    }
+    .certified-box {
+        margin-left: 0;
+    }  
+    .certified-box .icon-box {
+        display: none;
+    } 
+    .certified-box ul {
+        margin-left: 0px;
+        margin-right: 0px;
+    }    
+    .certified-box ul li {
+        display: block;
+        float: none;
+        width: 220px;
+        margin: 0 auto 30px;
+    }
+    
+    /*** Services Style1 Area Css ***/ 
+    .services-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .services-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .services-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }    
+    .single-service-style1 .text-holder h3 {
+        font-size: 20px;
+    }    
+    
+    /*** Slogan Area Css ***/          
+    .slogan-content {
+        padding: 91px 0px 100px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }  
+    .slogan-content .left {
+        padding-bottom: 28px;
+    }    
+    .slogan-content .left .title h2 br{
+        display: none;
+    }
+    
+    /*** Choose Area Css ***/ 
+    .choose-left-box img {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+    }    
+    .choose-content-box {
+        padding-top: 50px;
+        padding-left: 0px;
+        padding-bottom: 213px;
+    }    
+    .happy-patients-box {
+        left: 0px;
+        padding: 34px 20px 30px;
+    }    
+    .choose-tab-content-box .bottom-content .image-box, 
+    .choose-tab-content-box .bottom-content .text-box {
+        display: block;
+    } 
+    .choose-tab-content-box .bottom-content .text-box {
+        padding-left: 0px;
+        margin-top: 25px;
+    }    
+    .choose-tabs .tab-buttons .tab-btn {
+        margin-bottom: 10px;
+    }    
+        
+    /*** Testimonial Style1 Area Css ***/ 
+    .testimonial-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .testimonial-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .testimonial-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }     
+     
+    /*** Partner Area Css ***/ 
+    .partner-area {
+        padding-top: 115px;
+        padding-bottom: 120px;
+        min-height: auto;
+    }    
+    .partner-area:before {
+        display: none;
+    } 
+    .partner-area .layer-outer {
+        min-height: auto;
+    }    
+    .partner-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-bottom: 0px;
+    } 
+    .single-partner-logo-box {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }  
+        
+    /*** Service Style2 Area Css ***/ 
+    .service-style2-area {
+        overflow: hidden;
+    }    
+    .service-style2-area .layer-outer-shape {
+        display: none;
+    }    
+    .service-style2-left {
+        margin-top: 0;
+        margin-right: 0;
+    } 
+    .service-style2-left .sec-title {
+        padding-bottom: 50px;
+        margin-top: 0;
+        top: 0;
+    }    
+    .service-style2-left .sec-title h2.clrwhite{
+        color: #353742;
+    }
+    .service-style2-right {
+        margin-top: 50px;
+        margin-left: 0px;
+        max-width: 700px;
+        width: 100%;
+    }
+    .service-style2-left .bottom-box {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }       
+    .service-style2-left .bottom-box .right {
+        padding-top: 20px;
+    }    
+         
+    /*** Blog Style1 Area Css ***/ 
+    .blog-style1-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .blog-style1-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .blog-style1-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+         
+    /*** Slogan Style2 Area Css ***/      
+    .slogan-single-box .img-holder .overlay-content h2 {
+        font-size: 24px;
+        line-height: 34px;
+        font-weight: 700;
+    }   
+    .slogan-single-box .img-holder .overlay-content .btns-box {
+        padding-top: 16px;
+    } 
+    .slogan-single-box .img-holder .overlay-content .btns-box a.btn-one {
+        line-height: 50px;
+    }    
+    .slogan-style2-area .icon-holder {
+        display: none;
+    }    
+    
+    /*** Subscribe Area Css ***/
+    .subscribe-area .left {
+        float: none;
+    }    
+    .subscribe-social-links {
+        padding: 0px 0 20px;
+        text-align: center;
+    }    
+    .subscribe-social-links ul li {
+        display: inline-block;
+        float: none;
+        margin-right: 0;
+        margin: 0 3px;
+    }    
+    .subscribe-area .right {
+        float: none;
+    }    
+    .subscribe-title {
+        width: 100%;
+        float: none;
+        padding: 0px 0 12px;
+        text-align: center;
+    }        
+    .subscribe-box {
+        width: 310px;
+        float: none;
+        margin: 0 auto;
+    }    
+        
+    /*** Footer Area Css ***/ 
+    .footer-area .layer-outer .shape2 {
+        display: none;
+    }    
+    .single-footer-widget.marbtm {
+        margin-bottom: 34px;
+    }
+    .single-footer-widget.pdtop {
+        padding-top: 34px;
+    }        
+        
+        
+        
+        
+        
+        
+    /*** Header Style Two Css ***/ 
+    .header-style2 {
+        padding: 0;
+    }    
+    .header-style2-left {
+        position: absolute;
+        top: 0;
+        left: 0;
+        float: none;
+        z-index: 10;
+    } 
+    .header-style2-left .logo {
+        padding: 31px 0;
+    }    
+    .header-contact-info-box {
+        display: none;
+    }  
+        
+    .header-style2-bottom {
+        background: #ffffff;
+    }    
+    .header-style2-bottom-right .header-social-link {
+        display: none;
+    }    
+    .header-style2-bottom-right .btns-box {
+        display: none;
+    }    
+            
+    .header-style2-bottom-left {
+        float: none;
+        text-align: right;
+    }   
+    .header-style2-bottom-left .nav-outer {
+        float: right;
+    }    
+        
+    /*** Testimonial Style1 Area Css ***/ 
+    .featured-area .top-title {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }   
+    .featured-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .featured-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    }
+        
+    .single-featured-box {
+        max-width: 370px;
+        width: 100%;
+        margin: 0 auto 40px;
+    } 
+    .single-featured-box h3 br{
+        display: none;
+    }    
+    .opening-hours-contact-box {
+        padding: 48px 30px 49px;
+        max-width: 370px;
+        width: 100%;
+        margin: 0 auto 40px;
+    }    
+    .opening-hours-contact-box h3 br{
+        display: none;
+    }        
+            
+    /*** Testimonial Style1 Area Css ***/ 
+    .emergency-contact-text {
+        padding: 19px 0 0;
+    }
+    .emergency-contact-number .title a {
+        font-size: 24px;
+    } 
+    .emergency-contact-number .title h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }    
+    .emergency-contact-btns-box {
+        position: relative;
+        display: block;
+        padding: 19px 0 0;
+    }        
+        
+    /*** Slogan Style3 Area Css ***/     
+    .slogan-content-style3 .title h2 {
+        font-size: 40px;
+        line-height: 54px;
+        font-weight: 900;
+    }    
+    .slogan-content-style3 .title h2 br{
+        display: none;
+    }    
+    .slogan-content-style3 .btns-box {
+        padding-top: 37px;
+    }  
+    .rtl .emergency-contact-btns-box{
+        float: right;
+    }     
+        
+    /*** Team Area Css ***/  
+    .team-content-box {
+        position: relative;
+        display: block;
+        padding: 120px 0 80px;
+    }  
+    .offering-box .img-holder, 
+    .offering-box .title-holder {
+        display: block;
+    }     
+    .offering-box .title-holder {
+        padding-left: 0;
+        padding-top: 20px;
+    }        
+    .team-member-box {
+        max-width: 300px;
+        width: 100%;
+        float: none;
+        margin: 0 auto;
+    }       
+    #scrollbar1 {
+        width: 300px;
+    }    
+    #scrollbar1 .viewport {
+        width: 300px;
+        height: 570px;
+    }    
+    .single-team-member .title-holder {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 27px 30px 30px;
+        text-align: center;
+    }    
+    .single-team-member .title-holder .right {
+        padding-top: 13px;
+    }    
+        
+    /*** Faq Content Area Css ***/      
+    .faq-content-area .layer-outer .left-box {
+        width: 100%;
+        height: 50%;
+        float: none;
+    }  
+    .faq-content-area .layer-outer .right-box {
+        width: 100%;
+        height: 50%;
+        float: none;
+    }    
+    .faq-title-box {
+        padding: 120px 0;
+        padding-right: 0px;
+    } 
+    .faq-title-box ul li {
+        margin-right: 10px;
+        margin-top: 10px;
+    }    
+    .faq-content-box {
+        padding-left: 0;
+        margin-right: 0;
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+        
+    /*** Blog Style1 Area Graybg Css ***/   
+    .single-blog-style1.style1-instyle2 .big-text h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }       
+    .single-blog-style1.style1-instyle2 .big-text {
+        min-height: 230px;
+        padding: 0 40px;
+        margin-bottom: 30px;
+    }      
+    .single-blog-style1.style1-instyle2 .big-text .blog-quote {
+        bottom: 20px;
+        right: 20px;
+    }     
+        
+    /*** Contact Form Style1 Area Css ***/ 
+    .contact-form-style1-area .shape {
+        display: none;
+    }    
+    .contact-form.home-p {
+        max-width: 100%;
+        width: 100%;
+        padding: 120px 0 70px;
+    } 
+    .contact-image-box {
+        margin-left: 0px;
+    }    
+    .contact-image-box img {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+    }    
+        
+    /*** Partner Style2 Area Css ***/
+    .partner-box-style2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }    
+    .single-partner-logo-box-style2 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+    }    
+       
+    /*** About Style1 Area Css ***/    
+    .about-style1-image-box .single-image-box.image1 {
+        margin-right: 0;
+    }    
+    .about-style1-image-box .single-image-box.image2 {
+        margin-left: 0px;
+    }   
+    .about-style1-image-box .single-image-box .overlay-content {
+        padding: 0 15px;
+    }   
+        
+    /*** Partner Style3 Area Css ***/       
+    .single-partner-logo-box-style3 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }    
+    .partner-box-style3 {
+        justify-content: center;
+    }    
+        
+    /*** Team Style2 Area Css ***/ 
+    .team-style2-area .top-title {
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }   
+    .team-style2-area .sec-title {
+        padding-bottom: 19px;
+    }    
+    .team-style2-area .top-title .text {
+        max-width: 470px;
+        width: 100%;
+        top: 0;
+        padding-bottom: 49px;
+    } 
+    .single-team-member .title-holder h3 {
+        font-size: 16px;
+    }    
+       
+    /*** Error Page Area Css ***/     
+    .error-content .title {
+        font-size: 140px;
+    }    
+        
+    /*** Services Details Area Css ***/ 
+    .services-details-area {
+        padding: 120px 0 120px;
+    }    
+    .services-details-text2 .img-box {
+        margin-bottom: 40px;
+    }    
+    .services-details-sidebar {
+        position: relative;
+        display: block;
+        padding-top: 62px;
+    }        
+        
+    /*** Blog Single Area Css ***/       
+    .blog-single-area .tag-box {
+        padding: 30px 0px 30px;
+    }    
+    .blog-single-area .tag-box .tag {
+        float: none;
+    }    
+    .blog-single-area .tag-box .right {
+        float: none;
+        margin-top: 5px;
+        overflow: hidden;
+    } 
+    
+    .blog-detail-author-box {
+        padding: 60px 30px 60px;
+    }    
+    .blog-detail-author-box .img-box, 
+    .blog-detail-author-box .text-box {
+        display: block;
+    } 
+    .blog-detail-author-box .text-box {
+        padding-left: 0;
+        margin-top: 20px;
+    }
+    .blog-detail-author-box .text-box h3 {
+        margin: 0 0 10px;
+    }    
+        
+    .comment-box .single-comment-box {
+        padding-left: 0px;
+    }    
+    .comment-box .single-comment-box .img-holder {
+        position: static;
+    }      
+    .comment-box .single-comment-box .text-holder {
+        padding-left: 0px;
+        margin-top: 20px;
+    }    
+    .comment-box .single-comment-box .text-holder:before {
+        display: none;
+    }    
+    .comment-box .single-comment.marleft {
+        margin-left: 0px;
+    } 
+          
+    .sidebar-wrapper {
+        margin-top: 80px;
+    }    
+        
+    /*** Contact Page Css ***/  
+    .contact-form-style1-area.contact-page {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }    
+    .contact-form.contact-page {
+        float: none;
+        padding: 0;
+        margin-top: 66px;
+        max-width: 100%;
+    }    
+      
+        
+    /*** RTL Page Css ***/  
+    .rtl.featured-area .top-title {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center !important;
+    }        
+            
+        
+        
+      
+        
+        
+        
+        
+        
+        
+        
+       
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 768px){
+        
+    .main-menu .navigation > li > ul,
+    .main-menu .navigation > li > ul > li > ul{
+        display:block !important;
+        visibility:hidden;
+        opacity:0;
+    }
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    @media only screen and (max-width: 1199px) {
+    
+    /*** 
+    =============================================
+        Header Style One Css
+    =============================================
+    ***/
+    .header-contact {
+        display: none;
+    }    
+    .header-left .logo {
+        padding: 31px 0;
+    }    
+    
+    
+        
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    .nav-outer .mobile-nav-toggler .inner {
+        background: #02c18d;
+    }     
+    .main-header .main-menu {
+        position: relative;
+        display: block;
+        width: 100%;
+        float: none;
+    }      
+    .main-header .nav-outer .main-menu,
+    .mainmenu-area .nav-outer .main-menu,
+    .sticky-header{
+        display: none !important;
+    }
+    .nav-outer .mobile-nav-toggler{
+        display: block;
+    }
+    .mobile-nav-toggler .icon-bar {
+        position: relative;
+        display: block;
+        background: #031f4b;
+        height: 2px;
+        width: 30px;
+        margin: 7px 5px;
+    } 
+        
+    
+        
+    /*** RTL Page Css ***/       
+    
+        
+    
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1390px) { 
+     
+    /*** Main Slider Css ***/     
+    .main-slider .auto-container {
+        padding: 0px 120px;
+    } 
+    
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    @media only screen and (min-width: 992px) and (max-width: 1199px) { 
+    
+    /*** Main Slider Css ***/     
+    .main-slider .auto-container {
+        padding: 0px 120px;
+    }
+    .main-slider.style1 {
+        margin-top: 0;
+    }       
+    .main-slider .content h2 {
+        font-size: 60px;
+        line-height: 1.1em;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 59px;
+    }
+        
+        
+        
+        
+        
+        
+        
+     
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+        
+    /*** Main Slider Css ***/   
+    .main-slider .auto-container {
+        padding: 0px 120px;
+    }
+    .main-slider.style1 {
+        margin-top: 0;
+    }  
+    .main-slider .content h2 {
+        font-size: 50px;
+        line-height: 1.1em;
+        font-weight: 700;
+        margin-top: 18px;
+        margin-bottom: 51px;
+    }
+    .main-slider .icon-holder {
+        top: 50px;
+    }  
+        
+        
+        
+        
+        
+        
+     
+        
+        
+        
+    
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 500px) and (max-width: 767px) { 
+        
+    /*** Main Slider Css ***/ 
+    .main-slider .auto-container {
+        padding: 0px 70px;
+        padding-right: 30px;
+    }
+    .main-slider .owl-theme .owl-nav .owl-prev {
+        left: 0px;
+    }    
+    .main-slider .owl-theme .owl-nav .owl-next {
+        right: 0px;
+    }
+    .main-slider .slide {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        padding: 93px 0px 100px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }    
+    .main-slider.style1 {
+        margin-top: 0;
+    }  
+    .main-slider .content h2 {
+        font-size: 40px;
+        line-height: 1.1em;
+        font-weight: 700;
+        margin-top: 15px;
+        margin-bottom: 42px;
+    }
+    .main-slider .icon-holder {
+        display: none;
+    }  
+    .main-slider .content .btns-box a.btn-one{
+        line-height: 50px;
+    }   
+    .main-slider .content .btns-box a.btn-one i.round {
+        margin-left: 20px;
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+        
+        
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    @media only screen and (max-width: 499px) {
+        
+    /*** Main Slider Css ***/ 
+    .main-slider .auto-container {
+        padding: 0px 30px;
+    }   
+    .main-slider .owl-theme .owl-nav .owl-prev {
+        display: none;
+    }    
+    .main-slider .owl-theme .owl-nav .owl-next {
+        display: none;
+    }   
+    .main-slider.style1 {
+        margin-top: 0;
+    }  
+    .main-slider .slide {
+        padding: 93px 0px 100px;
+    }  
+    .main-slider .content h2 {
+        font-size: 30px;
+        line-height: 1.1em;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 37px;
+    }
+    .main-slider .icon-holder {
+        display: none;
+    }  
+    .main-slider .content .btns-box a.btn-one{
+        line-height: 50px;
+    }   
+    .main-slider .content .btns-box a.btn-one i.round {
+        margin-left: 20px;
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+     
+        
+    .main-slider.style2 .slide {
+        padding: 140px 0px 140px;
+    }    
+    .main-slider.style2 .content .sub-title {
+        padding: 11px 10px;
+        font-size: 16px;
+        line-height: 28px;
+    }    
+    .main-slider.style2 .content h2 br{
+        display: none;
+    }    
+    
+       
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1350px) { 
+      
+    /*** Welcome Area Css ***/  
+    .welcome-image-box .experience-box {
+        top: 30px;
+        left: 30px;
+    }    
+     
+     
+    }
+    
+    
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1660px) { 
+      
+    /*** Certified Area Css ***/  
+    .certified-box ul li {
+        width: 175px;
+    } 
+    .certified-box .icon-box {
+        display: none;
+    } 
+        
+    /*** Slogan Style2 Area Css ***/      
+    .slogan-single-box .img-holder .overlay-content h2 {
+        font-size: 30px;
+        line-height: 40px;
+        font-weight: 700;
+    }   
+    .slogan-single-box .img-holder .overlay-content .btns-box {
+        padding-top: 19px;
+    } 
+    .slogan-style2-area .icon-holder {
+        top: -105px;
+    }    
+    .slogan-style2-area .icon-holder img {
+        width: 380px;
+    }    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+     
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+    .order-box-2 {
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .order-box-1 {
+        -ms-flex-order: 1;
+        order: 1;
+    }
+        
+        
+        
+    
+    }
+    
+    
+    @media only screen and (min-width: 300px) and (max-width: 767px) { 
+    .order-box-2 {
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .order-box-1 {
+        -ms-flex-order: 1;
+        order: 1;
+    }
+        
+        
+        
+     
+    
+    }
+    

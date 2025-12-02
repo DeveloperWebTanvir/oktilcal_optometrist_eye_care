@@ -1,0 +1,204 @@
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?vdw2jk');
+  src:  url('../fonts/icomoon.eot?vdw2jk#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?vdw2jk') format('truetype'),
+    url('../fonts/icomoon.woff?vdw2jk') format('woff'),
+    url('../fonts/icomoon.svg?vdw2jk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+.icon-allah-word:before {
+  content: "\e900";
+}
+.icon-multiply:before {
+  content: "\e901";
+}
+.icon-clock:before {
+  content: "\e902";
+}
+.icon-plus:before {
+  content: "\e903";
+}
+.icon-minus:before {
+  content: "\e904";
+}
+.icon-play-button:before {
+  content: "\e905";
+}
+.icon-play-button-1:before {
+  content: "\e906";
+}
+.icon-star-of-favorites-outline:before {
+  content: "\e907";
+}
+.icon-next:before {
+  content: "\e908";
+}
+.icon-search:before {
+  content: "\e909";
+}
+.icon-bag:before {
+  content: "\e90a";
+}
+.icon-quote:before {
+  content: "\e90b";
+}
+.icon-star:before {
+  content: "\e90c";
+}
+.icon-favourite:before {
+  content: "\e90d";
+}
+.icon-quote-1:before {
+  content: "\e90e";
+}
+.icon-next-1:before {
+  content: "\e90f";
+}
+.icon-file:before {
+  content: "\e910";
+}
+.icon-doc:before {
+  content: "\e911";
+}
+.icon-link:before {
+  content: "\e912";
+}
+.icon-call:before {
+  content: "\e913";
+}
+.icon-pin:before {
+  content: "\e914";
+}
+.icon-calendar:before {
+  content: "\e915";
+}
+.icon-verified:before {
+  content: "\e916";
+}
+.icon-user:before {
+  content: "\e917";
+}
+.icon-maps-and-flags:before {
+  content: "\e918";
+}
+.icon-phone:before {
+  content: "\e919";
+}
+.icon-mail:before {
+  content: "\e91a";
+}
+.icon-tick:before {
+  content: "\e91b";
+}
+.icon-check:before {
+  content: "\e91c";
+}
+.icon-quote-2:before {
+  content: "\e91d";
+}
+.icon-bookmark:before {
+  content: "\e91e";
+}
+.icon-comments:before {
+  content: "\e91f";
+}
+.icon-confirmation:before {
+  content: "\e920";
+}
+.icon-vision:before {
+  content: "\e921";
+}
+.icon-glasses:before {
+  content: "\e922";
+}
+.icon-visualization:before {
+  content: "\e923";
+}
+.icon-vision-1:before {
+  content: "\e924";
+}
+.icon-eye:before {
+  content: "\e925";
+}
+.icon-telephone:before {
+  content: "\e926";
+}
+.icon-email:before {
+  content: "\e927";
+}
+.icon-pin-1:before {
+  content: "\e928";
+}
+.icon-phone-call:before {
+  content: "\e929";
+}
+.icon-placeholder:before {
+  content: "\e92a";
+}
+.icon-message:before {
+  content: "\e92b";
+}
+.icon-testing-glasses:before {
+  content: "\e92c";
+}
+.icon-eye-1:before {
+  content: "\e92d";
+}
+.icon-customer-service:before {
+  content: "\e92e";
+}
+.icon-optometrist:before {
+  content: "\e92f";
+}
+.icon-vision-2:before {
+  content: "\e930";
+}
+.icon-eye-2:before {
+  content: "\e931";
+}
+.icon-user-1:before {
+  content: "\e932";
+}
+.icon-chat:before {
+  content: "\e933";
+}
+.icon-eye-3:before {
+  content: "\e934";
+}
+.icon-eye-4:before {
+  content: "\e935";
+}
+.icon-eye-test:before {
+  content: "\e936";
+}
+.icon-contact-lens:before {
+  content: "\e937";
+}
+
+
+
